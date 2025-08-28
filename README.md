@@ -38,6 +38,6 @@ Valorizo princípios como **colaboração, inclusão e sustentabilidade**, e que
 ---
 
 ## 📫 Como me encontrar
-Linkedin: https://www.linkedin.com/in/luiz-henrique-4056012bb
-- [LinkedIn](https://linkedin.com/in/seu-usuario)  
-- [E-mail](mailto:seuemail@email.com)  
+
+- [LinkedIn](https://www.linkedin.com/in/luiz-henrique-4056012bb)  
+- [E-mail](luizhelira@gmail.@email.com)  
